@@ -24,7 +24,7 @@ export default function App() {
       <View style={{
         backgroundColor: "gold",
         width: 100,
-        height: 200,
+        height: 150,
       }}>
         
       </View>
