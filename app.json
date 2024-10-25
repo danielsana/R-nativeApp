@@ -3,7 +3,7 @@
     "name": "mosh_app",
     "slug": "mosh_app",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "potrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
